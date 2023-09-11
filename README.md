@@ -1,6 +1,6 @@
 # RickAndMorty
 
-Использовано: Xcode, Storyboard; Swift.
+Использовано: Xcode, Storyboard; Swift, External API, URLSession.
 
 Тестовое задание:
 
